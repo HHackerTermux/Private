@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+    margin:0;
+    font-family: 'Karla', sans-serif;
+}
+.nav{
+  background-color:#304FFD;
+  padding:0.1px 60px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0; /* required */
+  color:#EEEEEE;
+  font-family: 'Lato', sans-serif;
+  
+}
+
+.nav img{
+  position:absolute;
+  left:1px ;
+  top:3px;
+}
+.W{
+  font-family: 'Noto Sans', sans-serif;
+  padding:40px 0;
+  text-align:left;
+}
+.select{
+  border:5px solid #575757;
+  border-top-width: 0;
+  border-bottom-width:0;
+  text-decoration:none;
+  list-style:none;
+  text-decoration:none;
+  color:inherit;
+  border-right-width:0;
+}
+.select h2{
+  font-family: 'Noto Sans', sans-serif;
+  padding:0 10px;
+} 
+li a{
+  font-family: 'Noto Sans', sans-serif;
+  list-style:none;
+  text-decoration:none;
+  color:inherit;
+}
+#basics{
+  font-family: 'Karla', sans-serif;
+}
+#sprite{
+  font-family: 'Karla', sans-serif;
+}
+#logics{
+  font-family: 'Karla', sans-serif;
+}
